@@ -1,0 +1,6 @@
+College Lost and Found Management System
+Total Reports: 2
+OPEN Lost Reports: 0
+OPEN Found Reports: 0
+CLOSED Reports: 2
+Distinct Categories: 1
